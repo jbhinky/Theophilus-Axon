@@ -1,1 +1,0 @@
-# Blockchain memory writer stub
