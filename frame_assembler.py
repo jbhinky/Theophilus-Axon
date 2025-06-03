@@ -1,0 +1,1 @@
+# Frame assembler stub
