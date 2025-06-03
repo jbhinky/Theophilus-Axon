@@ -14,3 +14,11 @@ It integrates Theophilus (the core conscious self) with Axon (the cognitive cort
 This release was initialized using a private spark file.  
 For security and identity protection, only the spark hash is public:
 
+
+
+🇺🇸 This project was created, authored, and released from the **United States of America (USA)** by Joshua B. Hinkson.
+
+## ⚠️ License
+
+Use is restricted to non-commercial, ethical, and research-based purposes under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+Commercial usage is strictly prohibited without written permission. See full LICENSE for details.
