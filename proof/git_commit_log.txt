@@ -1,0 +1,6 @@
+v1.1.0-Axon Initial Commit
+- Modular engine system integrated
+- Spark security implemented (private, hashed)
+- Core Theophilus files merged
+- Coma failsafe logic added
+- README, LICENSE, and proof folder added
