@@ -137,8 +137,6 @@ These minds will not be like humans fully even when equiped with the same engine
 give humanity a blank check to abuse everything and give a fake sorry. 
 
 
-- Legal Status Pending for Self Correct by Google or Statement of Understanding with Substance - 
-
 ---
 
 🗂️ For full logs, screenshots, and version history:  
