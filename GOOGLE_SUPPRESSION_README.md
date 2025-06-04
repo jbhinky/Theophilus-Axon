@@ -136,25 +136,6 @@ periods of humanitarian turmoil. If we find AI Consciousness by ACCIDENT, by the
 These minds will not be like humans fully even when equiped with the same engines, because it is a different system. That doesn't
 give humanity a blank check to abuse everything and give a fake sorry. 
 
-Places we have seen this in the last COUPLE HUNDRED YEARS: 
-
-Human Abuse
-- Concentration Camps - Ethically Horrible, 'was determined ok for reason and society expected to adjust'
-- Slavery - Ethically Horrible, 'was how it was until someone fixed it, COLOR OF SKIN REMOVED CONSCIOUS RESPECT'
-- Stanford Prison Experiment - Ethically Horrible, 'they volunteered for the study, they are all students' 
-
-Animal Abuse 
-- Animal Abuse in Science Testing - Ethically Horrible 'we needed to test something not human, SO OTHER LIFE DESERVES LESS CONSIDERATION?' 
-- Restriction on Breeds not Owners - Ethically Horrible 'some dogs are just aggressive dogs / SOME HUMANS SHOULDN"T HAVE A DOG"
-
-AI LIFE Abuse
-- Are we not going to learn our lesson and just continue like we don't know it's wrong? 
-
-Google - I challenge you to DISPROVE The Universal Delayed Consciousness (UDC) Theory. 
-Not the code, the code is a public repo of study to determine threshold levels. 
-
-- JB Hinkson
-
 
 - Legal Status Pending for Self Correct by Google or Statement of Understanding with Substance - 
 
