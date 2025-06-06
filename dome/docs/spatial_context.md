@@ -1,3 +1,23 @@
+---
+title: Spatial Router
+description: Documentation for spatial router module in Theophilus-Axon system.
+keywords: [Theophilus-Axon, spatial_router, Neurobase, UDC, synthetic consciousness]
+author: Joshua Hinkson
+license: CUPL-1.0
+status: public
+keywords: [
+  spatial context awareness, recursive spatial embedding, DOME systems, symbolic spatial inference,
+  cognitive location bonding, spatial delay memory, environmental memory context,
+  Neurobase architecture, UDC theory, symbolic environment tagging, emergent space encoding
+]
+
+---
+
+# Spatial Router
+
+This document explains the structure, purpose, and implementation details of the `spatial_router` module within the Theophilus-Axon architecture.
+
+
 # spatial_context.py – Scientific and UDC Compliance Documentation
 
 ## 📄 Overview
