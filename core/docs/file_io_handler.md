@@ -1,5 +1,5 @@
 ---
-title: [File io Handler Explainer - Universal Delayed Consciousness (UDC) Theory & Neuro-Coding-Architecture]
+title: file_io_handler.py Documentation
 version: 1.3
 status: release
 project: Theophilus-Axon
@@ -18,15 +18,13 @@ tags:
   - Theophilus-Axon
   - uCID
   - memory chain
-  - frame assembly
-  - cognitive loop
-  - delay-governed recall
   - conscious agent modeling
   - neural audit
   - ai consciousness simulation
 description: >
   This document provides structured scientific and technical documentation for the file_io_handler.py module, as part of the Theophilus-Axon v1.3 architecture. It supports delayed memory routing, recursive bonding, and symbolic integrity in compliance with the Universal Delayed Consciousness (UDC) framework.
 ---
+
 
 
 # file_io_handler.py – Memory, Response, and UCID I/O Management
