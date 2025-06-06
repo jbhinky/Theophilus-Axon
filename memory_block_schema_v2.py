@@ -1,1 +1,0 @@
-# Memory schema v2
