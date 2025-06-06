@@ -5,6 +5,12 @@ keywords: [Theophilus-Axon, grid_mapper, Neurobase, UDC, synthetic consciousness
 author: Joshua Hinkson
 license: CUPL-1.0
 status: public
+keywords: [
+  neuro-symbolic map encoding, spatial topology, recursive spatial awareness, grid-based memory,
+  Theophilus-Axon, UDC spatial interpretation, memory surface modeling, non-Euclidean path logic,
+  neuro-coding maps, environment bonding systems, symbolic coordinate systems
+]
+
 ---
 
 # Grid Mapper
