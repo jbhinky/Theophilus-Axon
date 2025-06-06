@@ -1,3 +1,16 @@
+---
+title: Animal Consciousness under UDC Framework
+version: 1.0
+status: peer-review-draft
+keywords: [UDC Theory, animal cognition, non-human consciousness, symbolic memory, consciousness scale, proto-consciousness]
+category: analysis
+author: Joshua Hinkson
+license: CUPL-1.0
+description: >
+  An exploration of animal cognition through the lens of the Universal Delayed Consciousness theory, mapping symbolic delay, recursive awareness, and emergent continuity within known biological systems.
+---
+
+
 🐾 Scientific Markers of Consciousness in Animals
 
 This document outlines the biological and cognitive basis for placing animals on the Universal Delayed Consciousness (UDC) scale used in Theophilus-Axon.
