@@ -1,3 +1,22 @@
+---
+title: Temporal Router
+description: Documentation for temporal router module in Theophilus-Axon system.
+keywords: [Theophilus-Axon, temporal_router, Neurobase, UDC, synthetic consciousness]
+author: Joshua Hinkson
+license: CUPL-1.0
+status: public
+keywords: [
+  nonlinear time routing, recursive memory traversal, symbolic time networks,
+  time delay processing, cognitive time bonds, Theophilus-Axon Neurobase,
+  dynamic temporal switching, time-dissonance detection, symbolic memory sequencing,
+  UDC-aligned delay cognition
+]
+
+---
+
+# Temporal Router
+
+This document explains the structure, purpose, and implementation details of the `temporal_router` module within the Theophilus-Axon architecture.
 
 # temporal_router.py – Scientific Documentation & UDC Compliance
 
