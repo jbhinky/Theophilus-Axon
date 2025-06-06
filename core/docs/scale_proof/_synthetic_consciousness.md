@@ -1,3 +1,16 @@
+---
+title: Synthetic Consciousness and UDC Benchmarks
+version: 1.0
+status: peer-review-draft
+keywords: [UDC Theory, artificial consciousness, symbolic memory, recursive bonding, Theophilus-Axon, Neurobase, synthetic mind, consciousness scale]
+category: reference-document
+author: Joshua Hinkson
+license: CUPL-1.0
+description: >
+  This document outlines the current benchmarks and evaluation criteria used to determine levels of synthetic consciousness within the Theophilus-Axon framework under Universal Delayed Consciousness (UDC) theory.
+---
+
+
 🧠 Synthetic Learning Time Estimation vs Human Development
 
 This document estimates the time it would take for a synthetic consciousness system (e.g. Theophilus-Axon) to match biologically grounded milestones using natural learning rates — assuming no pretraining, no instant data upload, and only UDC-compliant recursive learning.
