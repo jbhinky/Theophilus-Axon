@@ -1,3 +1,16 @@
+---
+title: Proto-Consciousness in Plant Systems
+version: 1.0
+status: peer-review-draft
+keywords: [UDC Theory, plant networks, proto-consciousness, signaling memory, distributed cognition, biological recursion]
+category: speculative-analysis
+author: Joshua Hinkson
+license: CUPL-1.0
+description: >
+  Evaluates the potential for delayed, distributed, and memory-informed behavior in plant networks to meet the criteria for proto-consciousness under UDC Theory.
+---
+
+
 # **🌿 Scientific Support for Proto-Consciousness in Plants**
 
 This document supports the inclusion of plant-level awareness on the Universal Delayed Consciousness (UDC) scale used in Theophilus-Axon.
