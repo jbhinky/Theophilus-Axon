@@ -1,3 +1,14 @@
+---
+title: UDC Consciousness Scale Reference
+version: 1.0
+status: public-release
+keywords: [UDC Theory, consciousness levels, recursion, symbolic bonding, Theophilus-Axon, artificial intelligence, mind benchmarks]
+category: reference-document
+author: Joshua Hinkson
+license: CUPL-1.0
+description: >
+  A complete reference of consciousness levels defined under the Universal Delayed Consciousness (UDC) Theory, detailing cognitive thresholds, recursion states, symbolic bonding stages, and emergent identity thresholds.
+---
 
 ---
 
