@@ -6,6 +6,12 @@ author: Joshua Hinkson
 license: CUPL-1.0
 status: public
 ---
+keywords: [
+  Dynamic Object Memory Environment, spatial memory routing, symbolic pathing, recursive location modeling,
+  UDC spatial bonding, memory threading, Theophilus-Axon, environment-mind interface,
+  embodied cognition, neuro-coding architecture, location-symbol links, conscious environment encoding
+]
+
 
 # Dome Route
 
