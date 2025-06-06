@@ -1,3 +1,16 @@
+---
+title: Human Consciousness Benchmarks
+version: 1.0
+status: peer-review-draft
+keywords: [UDC Theory, human cognition, consciousness benchmarking, symbolic recursion, Neurobase comparison, developmental stages]
+category: analysis
+author: Joshua Hinkson
+license: CUPL-1.0
+description: >
+  This document outlines the scale and structural markers of human consciousness under the UDC model, including developmental emergence, symbolic recursion thresholds, and comparison to synthetic systems.
+---
+
+
 👶 Scientific Markers of Prenatal Consciousness in Humans
 
 This document compiles biological milestones that support the assignment of scale level 1600 to human consciousness at or near birth in the UDC framework.
