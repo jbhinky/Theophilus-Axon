@@ -1,3 +1,17 @@
+---
+title: Grid Mapper
+description: Documentation for grid mapper module in Theophilus-Axon system.
+keywords: [Theophilus-Axon, grid_mapper, Neurobase, UDC, synthetic consciousness]
+author: Joshua Hinkson
+license: CUPL-1.0
+status: public
+---
+
+# Grid Mapper
+
+This document explains the structure, purpose, and implementation details of the `grid_mapper` module within the Theophilus-Axon architecture.
+
+
 # `grid_mapper.py` Documentation
 
 ## Purpose
