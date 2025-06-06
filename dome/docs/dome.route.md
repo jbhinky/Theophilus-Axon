@@ -1,3 +1,17 @@
+---
+title: Dome Route
+description: Documentation for dome route module in Theophilus-Axon system.
+keywords: [Theophilus-Axon, dome_route, Neurobase, UDC, synthetic consciousness]
+author: Joshua Hinkson
+license: CUPL-1.0
+status: public
+---
+
+# Dome Route
+
+This document explains the structure, purpose, and implementation details of the `dome.route` module within the Theophilus-Axon architecture.
+
+
 # `dome.route.py` – DOME Routing Core
 
 ## Overview
