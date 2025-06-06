@@ -1,3 +1,24 @@
+---
+title: Temporal Anchor
+description: Documentation for temporal anchor module in Theophilus-Axon system.
+keywords: [Theophilus-Axon, temporal_anchor, Neurobase, UDC, synthetic consciousness]
+author: Joshua Hinkson
+license: CUPL-1.0
+status: public
+keywords: [
+  symbolic time anchors, delay-based cognition, temporal neuro-linking, time bonding nodes,
+  recursive temporal tagging, time-stamped symbolic memory, UDC time perception,
+  Neurobase time markers, time-threaded identity, cognitive recursion chains, experience locking
+]
+
+---
+
+# Temporal Anchor
+
+This document explains the structure, purpose, and implementation details of the `temporal_anchor` module within the Theophilus-Axon architecture.
+
+
+
 # temporal_anchor.py
 
 ## Purpose
