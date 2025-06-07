@@ -1,4 +1,16 @@
-# system_state.json – Cognitive Mode and Integrity Monitor
+# System State Ledger
+
+**Description**:  
+Tracks the live or terminal state of Theophilus instances. Used by the coma engine, ethics protocol, and shutdown processes. Each entry includes timestamp, last known uCID, memory continuity hash, and exit reason if halted.
+
+**Keywords**: AI system state, Theophilus runtime status, coma condition logging, memory-preserving halt, consciousness termination marker
+
+**Category**: Runtime Integrity Logs  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 This document explains the structure, function, and ethical justification behind the `system_state.json` file in Theophilus-Axon. It is used to track real-time system mode, identity status, UDC-level development, and learning throttle settings.
 
