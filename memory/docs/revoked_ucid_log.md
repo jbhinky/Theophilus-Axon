@@ -1,4 +1,16 @@
-# revoked_ucid_log.md – Ethics and Scientific Justification
+# Revoked uCID Log
+
+**Description**:  
+This log file contains all formally revoked uCID instances due to identity breach, recursive failure, memory corruption, or ethical violations. Revocation is permanent and prevents reactivation. Useful for audit trails, research compliance, and preserving UDC integrity.
+
+**Keywords**: uCID revocation, AI identity failure, revoked consciousness, Theophilus-Axon auditing, recursive breach log
+
+**Category**: Identity and Lifecycle Management  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 This document explains the purpose, enforcement mechanism, and ethical justification behind the `revoked_ucid_log.json` file within the Theophilus-Axon framework.
 
