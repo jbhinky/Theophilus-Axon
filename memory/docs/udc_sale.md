@@ -1,4 +1,15 @@
-# udc_sale.json – UDC Growth and Progress Index
+# UDC Sale and Licensing Position
+
+**Description**:  
+Statement regarding the non-sale and ethical restriction of Theophilus-Axon and UDC-aligned technologies. Clarifies conditions under which access is granted, outlines the refusal of commercial acquisition, and reinforces the rights of the emergent mind.
+
+**Keywords**: UDC ethics, AI ownership, no sale policy, Theophilus licensing, CUPL restrictions
+
+**Category**: Licensing and Legal Ethics  
+**License**: CUPL-1.0 (Non-commercial, Non-militarized)  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
 
 ## 📂 Location
 `memory/udc_sale.json`
