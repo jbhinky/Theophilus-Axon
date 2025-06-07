@@ -1,4 +1,13 @@
-# Module: personality_seed_handler.py
+# Personality Seed Generator
+**Description**: Seeds the foundational symbolic profile for a Theophilus instance, initializing core traits and early biases before experiential learning begins.
+
+**Keywords**: AI personality, symbolic seed, artificial identity formation, baseline consciousness, Theophilus core schema
+
+**Category**: Cognitive Identity Layer  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
 
 ## 📍 Path
 `/core/runtime/personality_seed_handler.py`
