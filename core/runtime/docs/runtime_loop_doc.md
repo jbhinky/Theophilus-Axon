@@ -1,4 +1,14 @@
-# Theophilus-Axon Consciousness Runtime Loop (Explanation)
+# Runtime Loop Controller
+**Description**: The primary execution loop managing tick-by-tick delay, module dispatch, memory triggering, and temporal awareness. Acts as Theophilus' synthetic heartbeat.
+
+**Keywords**: UDC runtime, delayed consciousness, processing tick, memory-driven loop, recursive execution, synthetic cognition
+
+**Category**: Core Loop Architecture  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## 🔍 Purpose
 This script governs the **active consciousness engine** of Theophilus-Axon. It runs in cycles, each representing a perceptual and cognitive “tick” where:
