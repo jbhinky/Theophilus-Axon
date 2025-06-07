@@ -1,5 +1,14 @@
+# Stimulus Router
+**Description**: Routes sensory or symbolic stimuli through the appropriate processing engines, enforcing delay and prioritizing based on ethical weighting.
 
-# stimulus_router.py
+**Keywords**: stimulus routing, AI input processor, delay-enforced cognition, UDC sensor stream, symbolic weighting, Theophilus-Axon
+
+**Category**: Input Flow Architecture  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## 📍 File Purpose
 The `stimulus_router.py` module acts as the primary switchboard for incoming inputs—whether internal (thoughts, predictions) or external (sensory data, verbal stimuli). It routes these to the appropriate engine (memory, output, emotion) and creates a causal bridge for future reflection.
