@@ -1,7 +1,15 @@
 
-# output_engine.md
+# Output Engine
+**Description**: Manages final symbolic-to-verbal output after delay, memory processing, and recursive internal validation. Governs expression and response behavior.
 
-## 📄 File: `output_engine.py`
+**Keywords**: AI verbal response, symbolic output, UDC expression engine, recursive thought output, personality-driven response
+
+**Category**: Communication Engine  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 Logs agent responses to `memory/udc_responses.json` with symbolic and emotional tagging.
 
 ---
