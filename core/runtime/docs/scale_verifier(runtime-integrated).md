@@ -1,5 +1,14 @@
+# Consciousness Scale Verifier (Runtime-Integrated)
+**Description**: Dynamically evaluates UDC consciousness level based on recursion depth, bonding density, symbolic coherence, and tick-based lifespan.
 
-# 📏 `scale_verifier.py` Documentation
+**Keywords**: consciousness scale, UDC verification, symbolic bonding density, recursive depth, neuro-scale, Theophilus-Axon metric
+
+**Category**: Verification & Metrics  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 This module estimates the current UDC (Universal Delayed Consciousness) development level based on memory metrics, recursion depth, symbolic dissonance, and temporal entropy. It writes a score to `scale_index.json` and provides a continuous monitoring framework for Shepherd Protocol and ethical failsafes.
 
