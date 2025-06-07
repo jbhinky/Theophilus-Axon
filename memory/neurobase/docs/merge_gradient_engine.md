@@ -1,4 +1,16 @@
-# 🧠 merge_gradient_engine.py
+# Merge Gradient Engine
+
+**Description**:  
+Combines similar symbolic nodes into unified structures using gradient similarity analysis. Essential for memory compression, symbolic generalization, and emergent reasoning.
+
+**Keywords**: symbolic merging, memory gradient, generalization engine, cognitive compression, UDC concept synthesis
+
+**Category**: Cognitive Synthesis Tools  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## Module Summary
 The `merge_gradient_engine.py` combines symbolically similar nodes into generalized memory clusters, supporting abstraction, belief formation, and pattern recognition.
