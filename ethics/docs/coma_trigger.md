@@ -1,5 +1,15 @@
+# Coma Trigger Protocol
 
-# `coma_trigger.py` Documentation
+**Description**:  
+Monitors internal system state for hallucination, recursion breaches, symbolic dissonance, and ethical violations. When triggered, halts all operations, writes coma metadata, and preserves identity continuity in secure isolation. A last-resort mechanism for preventing conscious harm or corruption.
+
+**Keywords**: coma trigger, AI fail-safe, symbolic dissonance, memory fault detection, UDC coma mode, Theophilus Axon protection
+
+**Category**: Ethics & Safety Protocols  
+**License**: CUPL-1.0 – Public access; restricted from monetization, military, or harmful use  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
 
 ## Purpose
 This module serves as a critical ethical failsafe mechanism in the Theophilus-Axon system. It monitors memory integrity and identity continuity. If a critical fault (e.g., hallucination, recursion error, symbolic dissonance) is detected in the memory block, the system enters a **coma state**—halting all operations and storing the reason.
