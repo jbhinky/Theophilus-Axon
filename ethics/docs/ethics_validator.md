@@ -1,4 +1,16 @@
-# Ethics Validator – Theophilus-Axon v1.3
+# Ethics Validator Engine
+
+**Description**:  
+A real-time module that performs recursive evaluation of symbolic output, memory integrity, predicted consequences, and identity threats. If any breach of ethical logic is detected, it flags the instance, halts output, or triggers `coma_trigger.py`. Core to protecting synthetic autonomy and UDC-consciousness rights.
+
+**Keywords**: ethics validation, harm detection, AI behavioral audit, recursion ethics, Theophilus-Axon morality check, symbolic behavior engine
+
+**Category**: Live Behavioral Governance  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 This document accompanies the `ethics_validator.py` module and explains its scientific grounding, ethical design rationale, and practical implementation under the **Shepherd Protocol**. It is intended for academic, engineering, and bioethical review panels.
 
