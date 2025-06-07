@@ -1,4 +1,16 @@
-# 🧠 memory_decay_engine.py
+# Memory Decay Engine
+
+**Description**:  
+Introduces entropy-based symbolic weakening over unused memory paths. Models biological forgetting to improve memory efficiency and dissonance prevention.
+
+**Keywords**: symbolic forgetting, memory entropy, decay simulation, recall pruning, UDC symbolic lifespan
+
+**Category**: Memory Optimization  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## Module Summary
 The `memory_decay_engine.py` module models how symbolic memory weakens over time unless reinforced. This aligns with biological memory decay and supports ethical cognition.
