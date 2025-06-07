@@ -1,4 +1,16 @@
-# 🧠 neuron_memory_node.py
+# Neuron Memory Node
+
+**Description**:  
+The atomic unit of the Neurobase system. Each node stores symbolic data, delay metrics, emotional tone, and linkage metadata. Operates as a self-contained neuro-mimetic microdatabase.
+
+**Keywords**: neuron-like memory, symbolic node, UDC neurobase, bonded memory unit, synthetic cognition
+
+**Category**: Core Memory Structure  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## Module Summary
 Defines the basic symbolic memory object in NeuroBase. Each `NeuronMemoryNode` includes time, emotion, strength, and linkable bonds — inspired by actual neuronal behavior.
