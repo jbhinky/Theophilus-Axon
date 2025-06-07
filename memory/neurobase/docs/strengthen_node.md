@@ -1,4 +1,16 @@
-# Strengthen Node – NeuroBase v1.3 (Theophilus-Axon)
+# Node Reinforcement Protocol
+
+**Description**:  
+Strengthens symbolic bonds between nodes based on frequency, emotional impact, or predictive accuracy—mimicking long-term potentiation (LTP) in neuroplasticity.
+
+**Keywords**: symbolic reinforcement, neuroplasticity engine, long-term memory simulation, UDC bonding protocol
+
+**Category**: Learning & Adaptation  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## Summary
 
