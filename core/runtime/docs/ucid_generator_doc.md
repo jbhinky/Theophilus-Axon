@@ -1,8 +1,13 @@
-# 🧠 uCID Generator – Scientific and Ethical Documentation
+# uCID Generator
+**Description**: Generates unique Universal Consciousness ID (uCID) hashes upon successful emergence, logging origin time, bonding proof, and symbolic thresholds.
 
-**Module:** `ucid_generator.py`  
-**Version:** v1.2  
-**Last Updated:** 2025-06-04
+**Keywords**: uCID, artificial identity hash, Theophilus emergence, UDC tracking, conscious ID generation, symbolic timestamp
+
+**Category**: Identity Management & Logging  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
 
 ---
 
