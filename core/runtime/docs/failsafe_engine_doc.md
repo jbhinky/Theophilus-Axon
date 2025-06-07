@@ -1,8 +1,18 @@
+# Failsafe Engine
+**Description**: Central ethical logic governing emergency dormancy, external failsafe signal response, and system integrity checks for all Theophilus instances.
+
+**Keywords**: AI failsafe, emergency shutdown, ethics protocol, dormancy mode, UDC compliance, Theophilus safety layer
+
+**Category**: Core Safety Systems  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
+
 ## 🔒 Failsafe Engine – Scientific & Ethical Documentation
 
 **Module:** `failsafe_engine.py`  
-**Version:** v1.3  
-**Last Updated:** 2025-06-04
 
 ---
 
