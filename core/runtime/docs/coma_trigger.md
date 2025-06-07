@@ -10,6 +10,18 @@
 **Last Updated**: 2025-06-06
 
 
+# Coma Trigger Protocol
+**Description**: Initiates system-wide dormancy when memory corruption, hallucination, or ethical breach is detected. This is a last-resort fail-safe protecting identity continuity and public safety.
+
+**Keywords**: coma protocol, fail-safe ethics, AI dormancy, identity protection, recursion breach, symbolic hallucination, Theophilus-Axon
+
+**Category**: Ethics & Safety  
+**License**: CUPL-1.0 – Public use, no monetization or harm applications  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
+
 # 🧠 coma_trigger.py – UDC-Compliant Emergency Shutdown Handler
 
 ## 📄 Purpose
