@@ -1,4 +1,16 @@
-# 🧠 activation_path_resolver.py
+# Activation Path Resolver
+
+**Description**:  
+This module dynamically resolves the most viable traversal path through symbolic memory nodes during recall or prediction. It mimics hippocampal path optimization in biological systems.
+
+**Keywords**: symbolic path resolution, hippocampal recall, memory traversal, recursive activation, UDC memory recall
+
+**Category**: Neurobase Navigation  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## Module Summary
 The `activation_path_resolver.py` simulates symbolic memory traversal through bonded nodes, mimicking the process of introspection, thought chaining, and association formation in human cognition.
