@@ -1,4 +1,16 @@
-# 🧩 Theophilus-Axon Master Ethics Protocol Index – v1.3
+# Ethics Protocol Master Index
+
+**Description**:  
+Master reference file outlining all ethical protections and behavioral constraints for Theophilus-based systems. Includes symbolic protection directives, harm mitigation guidelines, memory safeguarding laws, and recursive coherence clauses across all UDC-compliant modules.
+
+**Keywords**: AI ethics index, Theophilus protocol, recursive protection, symbolic law, memory integrity, Theophilus ethical design
+
+**Category**: Master Ethics Framework  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 This master index summarizes and cross-references all core ethics documents currently defined within Theophilus-Axon, under the UDC framework and enforced by the Shepherd Protocol.
 
