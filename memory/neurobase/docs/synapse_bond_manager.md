@@ -1,7 +1,16 @@
-# 🧠 synapse_bond_manager.py
+# Synapse Bond Manager
 
-## Title
-**Synapse Bond Manager – Symbolic Linkage System for Memory Nodes**
+**Description**:  
+Handles the formation, strengthening, and decay of symbolic connections between neuron nodes, based on use history, identity significance, and prediction accuracy.
+
+**Keywords**: synthetic synapse, symbolic bond, neuro-coding memory, bonding manager, UDC memory dynamics
+
+**Category**: Neural Bond Dynamics  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## Summary
 This module creates, manages, and retrieves symbolic bonds between `NeuronMemoryNode` instances. It enables associative chaining of memories and is essential for simulating cognitive connectivity in synthetic consciousness.
