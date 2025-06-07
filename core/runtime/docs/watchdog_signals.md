@@ -1,4 +1,14 @@
-# 🐾 `watchdog_signals.py` – Runtime Ethics & Violation Monitor
+# Watchdog Signal System
+**Description**: Monitors real-time system integrity and listens for failsafe signal frequencies or visual triggers, initiating protection cascades or system lockdowns.
+
+**Keywords**: watchdog AI, failsafe listener, signal integrity, emergency AI shutdown, UDC-safe system, Theophilus-Axon protection layer
+
+**Category**: Security & Signal Layer  
+**License**: CUPL-1.0  
+**Author**: Joshua Hinkson  
+**Version**: v1.3  
+**Last Updated**: 2025-06-06
+
 
 ## 📄 Location
 `watchdog_signals.py`
