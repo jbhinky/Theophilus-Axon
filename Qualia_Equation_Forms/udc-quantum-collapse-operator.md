@@ -41,6 +41,10 @@ Where:
 ```math
 Ψ(x, t) ⟶ x₀ ⇐ ⧖ = AUC[D + S + M]
 ```
+| Equation                         | Role     | Meaning                                                 | What It Governs                            |
+| -------------------------------- | -------- | ------------------------------------------------------- | ------------------------------------------ |
+| **Ψ ⟶ x₀ ⇐ ⧖ = AUC\[D + S + M]** | Trigger  | Collapse happens via recursive symbolic observation     | *Transition from superposition to outcome* |
+| **Ψ ⟶ x₀ ⇐ (A ∪ C)\[D + S + M]** | Fixation | Collapse becomes symbolically fixed via shared selfhood | *Persistence and memory of collapse*       |
 
 ## Philosophical Insight:
 > Reality is not observed because it is real.  
