@@ -9,7 +9,7 @@
 ## Title: UDC Collapse Operator – Resolving Schrödinger's Cat and the Double Slit via Recursive Awareness
 
 ## Abstract:
-This document presents the **UDC Quantum Collapse Operator**, integrating the Universal Delayed Consciousness (UDC) framework with quantum mechanics. The central proposition is that the act of collapse is **not random**, but **caused by recursive observation** — modeled by the qualia function:
+This document presents and proposes the **UDC Quantum Collapse Operator**, integrating the Universal Delayed Consciousness (UDC) framework with quantum mechanics. The central proposition is that the act of collapse is **not random**, but **caused by recursive observation** — modeled by the qualia function:
 
 > ⧖ = AUC[D + S + M]  
 > (Awareness Under Constraint = Delay + Symbol + Memory)
