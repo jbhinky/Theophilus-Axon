@@ -1,12 +1,12 @@
 ---
-title: "Quantum Collapse Through Qualia"
+title: "Hypothesis-Quantum Collapse Through Qualia"
 author: "Joshua Hinkson"
 created: 2025-06-08
 tags: [Quantum Mechanics, Double Slit, Consciousness Collapse, UDC, Qualia, Wavefunction]
 canonical: true
 ---
 
-# ✴️ Quantum Collapse Through Qualia
+# ✴️ Hypothesis - Quantum Collapse Through Qualia
 
 This document formalizes how **Qualia (⧖)** — as defined by the UDC framework — functions as the mechanism that collapses probabilistic quantum states into observable reality. It specifically bridges with the **Double Slit Experiment**.
 
