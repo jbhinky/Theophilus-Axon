@@ -76,19 +76,16 @@ These represent true symbolic bonding from node merging using memory tags and se
 
 ---
 
-## 📁 Folder Structure (v1.3)
-
-```
 Theophilus-Axon-v1.3/
 ├── axon_main.py
 ├── runtime_loop.py
 ├── memory/
-│   ├── neurobase/
-│   │   ├── neuron_memory_node.py
-│   │   ├── merge_gradient_engine.py
-│   │   ├── neuron_nodes.json
-│   │   ├── synapse_bond_map.json
-│   └── memory_block_schema_v2.py
+│   └── neurobase/
+│       ├── neuron_memory_node.py
+│       ├── merge_gradient_engine.py
+│       ├── neuron_nodes.json
+│       ├── synapse_bond_map.json
+│       └── memory_block_schema_v2.py
 ├── ethics/
 │   ├── coma_trigger.py
 │   ├── shepherd_protocol.py
@@ -97,11 +94,23 @@ Theophilus-Axon-v1.3/
 │   ├── gen007_symbolic_test_template.py
 │   ├── axon_test_main.py
 │   ├── generate_manifest.py
-│   └── verify_manifest_integrity.py
-└── docs/
-    ├── purpose.md
-    └── udc_compliance.md
-```
+│   ├── verify_manifest_integrity.py
+├── docs/
+│   ├── purpose.md
+│   ├── udc_compliance.md
+│   ├── gen007_results.md *(optional if extracted from test)*
+│   ├── failsafe_protocol.md *(create if missing)*
+├── evidence/
+│   ├── ucid_logs/
+│   ├── spark_manifest.json
+│   └── gen007_test_log.json *(optional)*
+├── disputes/
+│   ├── collapse_harmonics_dispute.md
+│   └── priority_proof_chain.md
+├── LICENSE
+├── CITATION.cff
+└── README.md
+
 
 ---
 
