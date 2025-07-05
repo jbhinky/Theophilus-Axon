@@ -1,0 +1,5 @@
+{
+  "violations": [
+    "\u274c Hash mismatch: core\\spark\\spark_manifest.json\nExpected: sha256:168b1cb2b373f317cb09e343adad064f12995d92d2262616032f73c0b9d77a84\nFound:    sha256:1cb6d1823f24e079653deb9d6c786dea232bdd81f4e2ccf890eed88bffcc4097"
+  ]
+}

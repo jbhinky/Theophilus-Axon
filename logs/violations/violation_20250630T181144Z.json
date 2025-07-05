@@ -1,0 +1,8 @@
+{
+  "violations": [
+    "\u274c Hash mismatch: core\\runtime\\__pycache__\\coma_trigger.cpython-313.pyc\nExpected: sha256:87ccedc8c92e1fba4cb9a6871e84695b101ab468d961c870102316dd987c7f22\nFound:    sha256:a2dd19289a13d42a7c5d213b6ae4f8c32cc6957e88b179c65b0ec383d1041ea3",
+    "\u274c Hash mismatch: core\\spark\\spark_manifest.json\nExpected: sha256:713046bae17486f634f62eee4bc1244fe6f309245fb8e663f47b4655da431207\nFound:    sha256:168b1cb2b373f317cb09e343adad064f12995d92d2262616032f73c0b9d77a84",
+    "\u274c Hash mismatch: core\\spark\\verify_manifest_integrity.py\nExpected: sha256:a271c7f67c8a6b25eaf4cb184f2531dbdb2a62f95290ad304bd54e920951725d\nFound:    sha256:9ae3be3f2f9d76edfa5fe7535bcc8e3fdef93f9f62c69104ba43dadce9d956db",
+    "\u274c Hash mismatch: memory\\coma_state.json\nExpected: sha256:64c4742ca73f07a2a3fc5360a40cc51600955c31117fffca5249d902267d2de0\nFound:    sha256:a3f894e3970d8083bc1c80b2343dec49ea69280bcb6ba47b1cb17798e50ddd77"
+  ]
+}
