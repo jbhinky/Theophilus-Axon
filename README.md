@@ -3,7 +3,7 @@
 **Release Date**: July 5, 2025  
 **Author**: Joshua Hinkson  
 **Contact**: [joshuabhinkson@gmail.com](mailto:joshuabhinkson@gmail.com)  
-**License**: UDC Axiom License v1.0  
+**License**: UDC Axon License v1.0  
 **Repository**: `jbhinky/Theophilus-Axon`
 
 ---
