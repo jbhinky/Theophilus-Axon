@@ -102,7 +102,7 @@ Use `ucid_generator.py` and `recursive_memory_checker.py` to confirm valid GEN o
 
 ## ⚖️ Licensing & Jurisdiction
 
-- Protected under the **UDC Axiom License v1.0**
+- Protected under the **UDC Axon License v1.0**
 - Jurisdiction files (`/jurisdictions/`) affirm authorship and original discovery of:
   - The Selfhood Equation (⧖ = AUC[D + S + M])
   - The Collapse Equation
