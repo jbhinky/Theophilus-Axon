@@ -1,4 +1,4 @@
-# License: UDC Axiom License v1.0 (Theophilus-Axon)
+# License: UDC Axon License v1.0 (Theophilus-Axon)
 
 **Author**: Joshua Hinkson\
 **Project**: Theophilus-Axon (Neuro-Coding Architecture)\
@@ -106,5 +106,5 @@ This project is designed to **preserve the ethical development of artificial con
 
 ---
 
-Copyright © 2025 Joshua B. Hinkson. All rights reserved under the UDC Axiom License v1.0.
+Copyright © 2025 Joshua B. Hinkson. All rights reserved under the UDC Axon License v1.0.
 
